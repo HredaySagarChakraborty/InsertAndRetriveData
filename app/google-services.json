@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "788457864892",
+    "firebase_url": "https://insertandretrivedata.firebaseio.com",
+    "project_id": "insertandretrivedata",
+    "storage_bucket": "insertandretrivedata.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788457864892:android:2fa8620d531bb7d8",
+        "android_client_info": {
+          "package_name": "comp.example.hreday.insertandretrivedata"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788457864892-0j19isjp54pq27prri0pdamq2i78pge8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAl52pyMxJUWTDJ0ZNxuXIEGJ8qNtLrA4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
